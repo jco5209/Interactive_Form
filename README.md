@@ -1,6 +1,6 @@
 ## Interactive form with validation
 
-*Project 3 of Treehouse Full Stack JavaScript course
+*Project 3 of Treehouse Full Stack JavaScript course*
 
 ###Project objectives
 
